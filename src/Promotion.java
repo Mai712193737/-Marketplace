@@ -1,4 +1,6 @@
 public class Promotion {
-    private Double apply(order:Order){};
+    private Double price;
+    private Order order;//thir is a class has name Order
+
 
 }

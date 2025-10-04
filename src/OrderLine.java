@@ -1,5 +1,5 @@
 public class OrderLine {
-    private String sku;
+    public String sku;
     private int qty;
     private Double unitPrice;
     private Double LineTotal;
