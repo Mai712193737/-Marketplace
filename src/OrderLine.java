@@ -1,8 +1,11 @@
+import java.util.ArrayList;
+
 public class OrderLine {
     public String sku;
     private int qty;
     private Double unitPrice;
     private Double LineTotal;
+    ArrayList<Order> orders = new ArrayList<>();
 
     public String getSku() {
         return sku;

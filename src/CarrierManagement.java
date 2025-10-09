@@ -1,7 +1,10 @@
+import java.util.ArrayList;
+
 public class CarrierManagement {
      private boolean active;
      private String id ;
      private String name;
+    ArrayList<Order> orders = new ArrayList<>();
 
     public boolean isActive() {
         return active;
