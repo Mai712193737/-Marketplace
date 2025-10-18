@@ -8,7 +8,7 @@ public class Main {
         System.out.print("Enter size of linkedList ");
         int size = input.nextInt();
 
-        System.out.println("Enter members");
+        System.out.println("Enter members \uD83E\uDD0D ... ");
         for (int i = 0; i < size; i++) {
             System.out.print("Enter number in index" + (i + 1) + ": ");
             int value = input.nextInt();
