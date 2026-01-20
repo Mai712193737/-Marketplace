@@ -1,0 +1,13 @@
+public class Shipment {
+
+    private long trackingNumber;
+    private String carrierCode;
+    private long orderId;
+    private String shipmentStatus;
+
+    public void generateTrackNumber() {
+    }
+
+    public void updateStatus(String newShipmentStatus) {
+    }
+}
