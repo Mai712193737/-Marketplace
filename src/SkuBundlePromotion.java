@@ -19,7 +19,7 @@ public class SkuBundlePromotion implements Promotion {
         if (skusInOrder.contains(sku1)
                 && skusInOrder.contains(sku2)
                 && skusInOrder.contains(sku3)) {
-            return order.getTotalPrice() * 0.10; // خصم 10% مثال
+            return order.getTotalPrice() * 0.10;
         }
         return 0;
     }
