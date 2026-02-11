@@ -1,0 +1,3 @@
+trackingNumber,carrierCode,orderId,status
+10001,DHL,1,CREATED
+10002,ARAMEX,2,IN_TRANSIT

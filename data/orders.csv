@@ -1,0 +1,2 @@
+id,customerId,status,subtotal,discount,shippingFee,grandTotal
+1,C1,CREATED,0.0,0.0,0.0,0.0

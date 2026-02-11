@@ -1,0 +1,3 @@
+id,orderId,actor,action,timestampMillis,details
+1,10,system,ORDER_CREATED,1736000000000,Order created
+2,10,inventory,ALLOCATE,1736000005000,Allocated 2 items
